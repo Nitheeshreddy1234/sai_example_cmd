@@ -1,0 +1,23 @@
+{
+  "name": "sai_cmd_examp",
+  "version": "1.0.0",
+  "description": "\"# sai_example_cmd\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitheeshreddy1234/sai_example_cmd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitheeshreddy1234/sai_example_cmd/issues"
+  },
+  "homepage": "https://github.com/Nitheeshreddy1234/sai_example_cmd#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
